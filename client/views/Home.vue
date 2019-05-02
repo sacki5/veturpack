@@ -1,5 +1,7 @@
 <template>
-  <div class="page">
+  <div :class="page
+    "
+  >
     <counter></counter>
   </div>
 </template>
